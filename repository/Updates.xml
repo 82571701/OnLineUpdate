@@ -6,15 +6,15 @@
   <Name>com.vertexwan.ifw</Name>
   <DisplayName>VertexWAN</DisplayName>
   <Description>VertexWAN Description......</Description>
-  <Version>1.0.2</Version>
+  <Version>1.0.3</Version>
   <ReleaseDate>2020-11-10</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
   <UpdateFile CompressedSize="17032992" OS="Any" UncompressedSize="63148916"/>
   <DownloadableArchives>bin.7z,doc.7z,etc.7z,license.7z,script.7z</DownloadableArchives>
   <UserInterfaces>CustomWidget.ui</UserInterfaces>
-  <SHA1>79320f4d19301d33f99032835a8509ff6a5b7be1</SHA1>
+  <SHA1>c5a1f7c1508339a6b0ff4e984575a609c4e7f171</SHA1>
  </PackageUpdate>
- <SHA1>79320f4d19301d33f99032835a8509ff6a5b7be1</SHA1>
- <MetadataName>2020-11-10-0127_meta.7z</MetadataName>
+ <SHA1>c5a1f7c1508339a6b0ff4e984575a609c4e7f171</SHA1>
+ <MetadataName>2020-11-10-0133_meta.7z</MetadataName>
 </Updates>
