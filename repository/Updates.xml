@@ -1,0 +1,20 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vertexwan.ifw</Name>
+  <DisplayName>VertexWAN</DisplayName>
+  <Description>VertexWAN Description......</Description>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2020-11-10</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" CompressedSize="17032992" UncompressedSize="63148916"/>
+  <DownloadableArchives>bin.7z,doc.7z,etc.7z,license.7z,script.7z</DownloadableArchives>
+  <UserInterfaces>CustomWidget.ui</UserInterfaces>
+  <SHA1>83b22e3acaf73013102200ee1cfddf7acdd041f3</SHA1>
+ </PackageUpdate>
+ <SHA1>83b22e3acaf73013102200ee1cfddf7acdd041f3</SHA1>
+ <MetadataName>2020-11-10-0113_meta.7z</MetadataName>
+</Updates>
